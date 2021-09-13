@@ -3,10 +3,9 @@ header{
 }
 
 .pattern{ 
-    background-repeat: repeat;
+    background-size: 150px 80px;
     background-color:rgba(77,161,255,255);
-    width: 100%;  
-    
+     
     
 }
 
@@ -14,3 +13,21 @@ header{
     width: 180px;
 }
 
+
+.title{
+    color: white;
+    background-color: rgba(26,171,230,255);    
+}
+
+.first{
+    color:black;
+    background-color:rgba(178,230,242,255);
+}
+
+.footer1{
+    margin-bottom: 20px;
+}
+
+.footer2{
+    margin-bottom: 20px;
+}
