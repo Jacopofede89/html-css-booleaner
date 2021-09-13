@@ -1,6 +1,11 @@
-.pattern{   
+header{
+    margin-bottom: 20px;
+}
+
+.pattern{ 
+    background-repeat: repeat;
     background-color:rgba(77,161,255,255);
-    width: 80px;  
+    width: 100%;  
     
     
 }
@@ -8,3 +13,4 @@
 .logo{
     width: 180px;
 }
+
