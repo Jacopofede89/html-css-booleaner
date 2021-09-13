@@ -3,13 +3,14 @@ header{
 }
 
 .pattern{ 
-    background-size: 150px 80px;
+    background-image: url(img/pattern.png);
+    height: 70px;
     background-color:rgba(77,161,255,255);
      
-    
 }
 
 .logo{
+   
     width: 180px;
 }
 
@@ -30,4 +31,5 @@ header{
 
 .footer2{
     margin-bottom: 20px;
+    
 }
